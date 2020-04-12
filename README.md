@@ -1,0 +1,2 @@
+# teknowinlink
+safelink teknowin10
